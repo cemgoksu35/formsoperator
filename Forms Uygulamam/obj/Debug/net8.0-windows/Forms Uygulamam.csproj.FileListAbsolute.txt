@@ -1,0 +1,16 @@
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\bin\Debug\net8.0-windows\Forms Uygulamam.exe
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\bin\Debug\net8.0-windows\Forms Uygulamam.deps.json
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\bin\Debug\net8.0-windows\Forms Uygulamam.runtimeconfig.json
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\bin\Debug\net8.0-windows\Forms Uygulamam.dll
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\bin\Debug\net8.0-windows\Forms Uygulamam.pdb
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\obj\Debug\net8.0-windows\Forms Uygulamam.csproj.GenerateResource.cache
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\obj\Debug\net8.0-windows\Forms Uygulamam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\obj\Debug\net8.0-windows\Forms Uygulamam.AssemblyInfoInputs.cache
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\obj\Debug\net8.0-windows\Forms Uygulamam.AssemblyInfo.cs
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\obj\Debug\net8.0-windows\Forms Uygulamam.csproj.CoreCompileInputs.cache
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\obj\Debug\net8.0-windows\Forms Uygulamam.dll
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\obj\Debug\net8.0-windows\refint\Forms Uygulamam.dll
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\obj\Debug\net8.0-windows\Forms Uygulamam.pdb
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\obj\Debug\net8.0-windows\Forms Uygulamam.genruntimeconfig.cache
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\obj\Debug\net8.0-windows\ref\Forms Uygulamam.dll
+C:\Users\Cem Göksu\Desktop\Projelerim\Masaüstü\Forms Uygulamam\Forms Uygulamam\obj\Debug\net8.0-windows\Forms_Uygulamam.Form2.resources

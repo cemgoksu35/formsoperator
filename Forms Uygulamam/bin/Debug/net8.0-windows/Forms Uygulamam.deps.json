@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Forms Uygulamam/1.0.0": {
+        "runtime": {
+          "Forms Uygulamam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Forms Uygulamam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
